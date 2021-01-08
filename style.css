@@ -5,28 +5,28 @@ div
 #header
 {
     position: fixed;
-    z-index: 1;
-    height:40px;
-    width: 98%;
-    background-color: rgba(0, 0, 0,.5);
+    z-index: 9999;
+    height: 100px;
+    width: 100%;
+    background-color: rgba(0, 0, 0, .5);
     margin-bottom: 25px;
     }
 #name {
-    float:left;
+        float:left;
 	margin-left: 30px;
-	padding-bottom: 10px;
+	padding-bottom: 15px;
 	font-size: 22.4px;
 	font-family: Verdana, sans-serif;
 	color: #ffffff;
 }
 
 #email{
-    float:right;
-    margin-right: 20px;
-	padding-bottom: 10px;
-	font-size: 16px;
+        float:right;
+        margin-right: 30px;
+	padding-bottom: 15px;
+	font-size: 22.5px;
 	font-family: Verdana, sans-serif;
-	color: #ffffff;
+	color: white;
 }
 
 #contact
