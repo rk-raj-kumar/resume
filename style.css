@@ -8,10 +8,9 @@ div
     z-index: 1;
     height:40px;
     width: 98%;
-    background-color: #668284;
-    margin-bottom: 10px
+    background-color: rgba(0, 0, 0,.5);
+    margin-bottom: 5px
     }
-
 #name {
     float:left;
 	margin-left: 20px;
