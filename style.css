@@ -5,11 +5,12 @@ div
 #header
 {
     position: fixed;
-    z-index: 9999;
+    z-index: 1;
     height:40px;
     width: 98%;
     background-color: rgba(0, 0, 0,.5);
-    margin-bottom: 5px
+    margin-bottom: 25px;
+    font-size: 1.4rem;
     }
 #name {
     float:left;
